@@ -1,0 +1,75 @@
+body {
+    width: 100vw;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+    background: #EEEEEE;
+
+}
+
+
+.sectionfirst{
+    display: flex;
+    width: 100%;
+}
+.sectionsecond{
+height: 800px;
+display: none;
+}
+
+.sectionthird{
+    display: none;
+}
+
+.sectionfour{
+    display: none;
+}
+
+.sectionfive{
+    display: none;
+}
+
+.sectionblock{
+    display: block;
+    width: 100%;
+}
+
+.sectionnone{
+    display: none;
+}
+
+.s12 {
+    position: absolute;
+    width: 13vw;
+    height: 9vw;
+    left: 16vw;
+    top: 6vw;
+
+}
+
+.s12{ cursor: all-scroll;}
+.s13{ cursor: all-scroll;}
+.s14{ cursor: all-scroll;}
+.s15{ cursor: all-scroll;}
+.s16{ cursor: all-scroll;}
+.s17{ cursor: all-scroll;}
+.s18{ cursor: all-scroll;}
+
+
+.curve1{ cursor: pointer;}
+.curve2{ cursor: pointer;}
+.curve3{ cursor: pointer;}
+.curve4{ cursor: pointer;}
+.curve5{ cursor: pointer;}
+.curve6{ cursor: pointer;}
+.curve7{ cursor: pointer;}
+
+.decor1{ cursor: pointer;}
+.decor2{ cursor: pointer;}
+.decor3{ cursor: pointer;}
+.decor4{ cursor: pointer;}
+.decor5{ cursor: pointer;}
+.decor6{ cursor: pointer;}
+.decor7{ cursor: pointer;}
+.decor8{ cursor: pointer;}
+
